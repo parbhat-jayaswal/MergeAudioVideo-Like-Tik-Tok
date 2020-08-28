@@ -23,14 +23,12 @@
 		D85D83C224AF5B300043F8BA /* audio3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D85D83B524AF5B2F0043F8BA /* audio3.mp3 */; };
 		D85D83C324AF5B300043F8BA /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85D83B624AF5B2F0043F8BA /* CameraViewController.swift */; };
 		D85D83C424AF5B300043F8BA /* iThink.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D85D83B724AF5B2F0043F8BA /* iThink.mp3 */; };
-		D85D83C524AF5B300043F8BA /* urban.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D85D83B824AF5B2F0043F8BA /* urban.mp3 */; };
 		D85D83C624AF5B300043F8BA /* SongListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85D83B924AF5B2F0043F8BA /* SongListVC.swift */; };
 		D85D83C724AF5B300043F8BA /* audio1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D85D83BA24AF5B2F0043F8BA /* audio1.mp3 */; };
 		D85D83C824AF5B300043F8BA /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85D83BB24AF5B2F0043F8BA /* LoadingView.swift */; };
 		D85D83C924AF5B300043F8BA /* audio2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D85D83BC24AF5B2F0043F8BA /* audio2.mp3 */; };
 		D85D83CA24AF5B300043F8BA /* VideoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85D83BD24AF5B2F0043F8BA /* VideoVC.swift */; };
 		D85D83CB24AF5B300043F8BA /* audio4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D85D83BE24AF5B2F0043F8BA /* audio4.mp3 */; };
-		D85D83CC24AF5B300043F8BA /* Linkin_Park.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D85D83BF24AF5B300043F8BA /* Linkin_Park.mp3 */; };
 		D85D83D024AF5B4A0043F8BA /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = D85D83CE24AF5B4A0043F8BA /* LICENSE.md */; };
 		D85D83D124AF5B4A0043F8BA /* AGVideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85D83CF24AF5B4A0043F8BA /* AGVideoPlayerView.swift */; };
 		F5947A04C0C6C804B8BC3213 /* Pods_MergeAudioVideoTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 92D8B0FD20C22061CAAD841F /* Pods_MergeAudioVideoTests.framework */; };
@@ -82,14 +80,12 @@
 		D85D83B524AF5B2F0043F8BA /* audio3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = audio3.mp3; sourceTree = "<group>"; };
 		D85D83B624AF5B2F0043F8BA /* CameraViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		D85D83B724AF5B2F0043F8BA /* iThink.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = iThink.mp3; sourceTree = "<group>"; };
-		D85D83B824AF5B2F0043F8BA /* urban.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = urban.mp3; sourceTree = "<group>"; };
 		D85D83B924AF5B2F0043F8BA /* SongListVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongListVC.swift; sourceTree = "<group>"; };
 		D85D83BA24AF5B2F0043F8BA /* audio1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = audio1.mp3; sourceTree = "<group>"; };
 		D85D83BB24AF5B2F0043F8BA /* LoadingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
 		D85D83BC24AF5B2F0043F8BA /* audio2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = audio2.mp3; sourceTree = "<group>"; };
 		D85D83BD24AF5B2F0043F8BA /* VideoVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoVC.swift; sourceTree = "<group>"; };
 		D85D83BE24AF5B2F0043F8BA /* audio4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = audio4.mp3; sourceTree = "<group>"; };
-		D85D83BF24AF5B300043F8BA /* Linkin_Park.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Linkin_Park.mp3; sourceTree = "<group>"; };
 		D85D83CE24AF5B4A0043F8BA /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		D85D83CF24AF5B4A0043F8BA /* AGVideoPlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AGVideoPlayerView.swift; sourceTree = "<group>"; };
 		FDD4A6356CD5EF8E1FE72A81 /* Pods_MergeAudioVideo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MergeAudioVideo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -181,9 +177,7 @@
 				D85D83BB24AF5B2F0043F8BA /* LoadingView.swift */,
 				D85D83B924AF5B2F0043F8BA /* SongListVC.swift */,
 				D85D83B424AF5B2F0043F8BA /* SongItemCell.swift */,
-				D85D83BF24AF5B300043F8BA /* Linkin_Park.mp3 */,
 				D85D83B724AF5B2F0043F8BA /* iThink.mp3 */,
-				D85D83B824AF5B2F0043F8BA /* urban.mp3 */,
 				D85D83BA24AF5B2F0043F8BA /* audio1.mp3 */,
 				D85D83BC24AF5B2F0043F8BA /* audio2.mp3 */,
 				D85D83B524AF5B2F0043F8BA /* audio3.mp3 */,
@@ -334,10 +328,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D85D83C424AF5B300043F8BA /* iThink.mp3 in Resources */,
-				D85D83CC24AF5B300043F8BA /* Linkin_Park.mp3 in Resources */,
 				D85D839024AF5A020043F8BA /* LaunchScreen.storyboard in Resources */,
 				D85D83C224AF5B300043F8BA /* audio3.mp3 in Resources */,
-				D85D83C524AF5B300043F8BA /* urban.mp3 in Resources */,
 				D85D83C924AF5B300043F8BA /* audio2.mp3 in Resources */,
 				D85D838D24AF5A020043F8BA /* Assets.xcassets in Resources */,
 				D85D838B24AF5A010043F8BA /* Main.storyboard in Resources */,
